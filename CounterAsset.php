@@ -20,7 +20,7 @@ class CounterAsset extends \yii\web\AssetBundle
         'yii\web\JqueryAsset'
     ];
 
-    public $sourcePath = '@vendor/panchenkodv/yii2-counter/assets/';
+    public $sourcePath = '@vendor/panchenkodv/yii2-widget-counter/assets/';
 
     public $css = [
         'css/style.css',
