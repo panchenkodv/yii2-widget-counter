@@ -1,7 +1,6 @@
 {
     "name": "panchenkodv/yii2-widget-counter",
     "description": "Counter widget for yii2",
-    "type": "composer-plugin",
     "license": "GPL-3.0",
     "authors": [
         {
