@@ -1,7 +1,10 @@
 {
     "name": "panchenkodv/yii2-widget-counter",
     "description": "Counter widget for yii2",
-    "license": "GPL-3.0",
+    "license": "AGPL-3.0",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
     "authors": [
         {
             "name": "panchenkodv",
@@ -13,8 +16,5 @@
         "psr-4": {
             "panchenkodv\\counter\\": ""
         }
-    },
-    "require": {
-        "yiisoft/yii2": "*",
     }
 }
