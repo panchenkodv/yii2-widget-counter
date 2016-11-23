@@ -13,7 +13,7 @@
         "psr-4": {
             "panchenkodv\\counter\\": ""
         }
-    }
+    },
     "require": {
         "yiisoft/yii2": "*",
     }
