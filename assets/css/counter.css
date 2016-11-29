@@ -1,3 +1,17 @@
+.event-mess.action-mess .counter:before{
+	margin-right: 10px;
+	font-size: 24px;
+	font-family: OpenSans-LightItalic;
+}
+
+.event-mess.action-mess.start-left .counter:before{
+	content: 'До начала акции осталось:';
+}
+
+.event-mess.action-mess.end-left .counter:before{
+	content: 'До конца акции осталось:';
+}
+
 .counter-analog span.part {
 	display: inline-block;
 	text-align: center;

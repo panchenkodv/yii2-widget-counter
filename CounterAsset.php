@@ -23,10 +23,10 @@ class CounterAsset extends \yii\web\AssetBundle
     public $sourcePath = '@vendor/panchenkodv/yii2-widget-counter/assets/';
 
     public $css = [
-        'css/style.css',
+        'css/counter.css',
     ];
 
     public $js = [
-        'js/main.js',
+        'js/counter.js',
     ];
 }
